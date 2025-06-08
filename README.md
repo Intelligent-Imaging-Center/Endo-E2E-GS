@@ -1,8 +1,8 @@
-# Endo-ZeroGS
+# Endo-E2E-GS
 
 ## Setup
 
-To deploy and run Endo-ZeroGS, run the following scripts:
+To deploy and run Endo-E2E-GS, run the following scripts:
 
 ```python
 conda env create --file environment.yml
@@ -60,7 +60,7 @@ To run the following example command to render the images:
 ```python
 python render.py \
 --test_data_root 'PATH/TO/REAL_DATA' \
---ckpt_path 'PATH/TO/Endo_ZeroGS_stage2_final.pth' 
+--ckpt_path 'PATH/TO/Endo-E2E-GS_stage2_final.pth' 
 ```
 
 
