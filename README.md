@@ -6,7 +6,7 @@ To deploy and run Endo-E2E-GS, run the following scripts:
 
 ```python
 conda env create --file environment.yml
-conda activate endo_zerogs
+conda activate endo_e2e_gs
 ```
 
 Then, compile the `diff-gaussian-rasterization` in [3DGS](https://github.com/graphdeco-inria/gaussian-splatting) repository:
