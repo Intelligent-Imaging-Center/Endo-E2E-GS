@@ -1,5 +1,8 @@
 # Endo-E2E-GS
 
+![demo](https://github.com/user-attachments/assets/6837e79a-e06d-4a06-98c1-b443290c5792)
+
+
 ## Setup
 
 To deploy and run Endo-E2E-GS, run the following scripts:
